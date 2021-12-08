@@ -71,6 +71,7 @@ footer {
   }
 
   main {
+    width: 100%;
     margin-top: 50px;
     margin-bottom: 50px;
     display: flex;
@@ -81,6 +82,8 @@ footer {
   .step-box {
     width: 90%;
     margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .step-box:last-child {
